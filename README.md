@@ -1,7 +1,7 @@
+# Week 3/4 capstone project project for group 6 
+
 # group_6_login_page_ui
 
-A new Flutter project for group 6' capstone project
-Week 3/4
 ![Group_6_UI_Design](https://github.com/IruomaJennifer/group_6_login_page_ui/blob/master/images/Group_6_UI_design.PNG)
 
 
